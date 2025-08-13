@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edressk369-collab.github.io/my-website/sitemap.xml
